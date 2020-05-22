@@ -33,7 +33,7 @@ python3 main.py <br>
 --read_model None<br>
 --evaluate False<br>
 '''<br>
-# Demo
+# Demos
 There are three demos:
 ## [different exits width](https://drive.google.com/file/d/19qD0Xqt4rGRUIpeRzEh-MkMhbcEEH-g-/view?usp=sharing)
 ## [different pedestrian distribution](https://drive.google.com/file/d/1ojG_ggo8m_IkD162QtpIB_djv79yt8IT/view?usp=sharing)
