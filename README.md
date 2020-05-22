@@ -1,10 +1,9 @@
 MultiExit-Rainbow DQN
 ======
-This is a multi-exit evacuation simulation based on Rainbow DQN, where RVO2 library is used to avoid collision and Rainbow DQN is applied to guide the pedestrians to evacuate from the indoor room with a more reasonable behavior compared with other mathematical models.
+This is a multi-exit evacuation simulation based on Rainbow DQN, where RVO2 library is used to avoid collision, and Rainbow DQN is applied to guide the pedestrians to evacuate from the indoor room with a more reasonable behavior compared with other mathematical models.
 
 # Keywords
-Multi-Exit Evacuation simulation; Rainbow DQN application; Pytorch
-
+Multi-Exit Evacuation Simulation; Rainbow DQN application
 # Setup
 ## Environment
 * Ubuntu 18.04
@@ -12,7 +11,7 @@ Multi-Exit Evacuation simulation; Rainbow DQN application; Pytorch
 * Python 3.7 + Cuda 10.0
 ## Requirements
 * Numpy
-* Pytorch
+* Pytorch 1.0
 * OpenCV
 * xlwt and xlrd (optimal)
 # Usage
