@@ -13,7 +13,7 @@ Multi-Exit Evacuation Simulation; Rainbow DQN application
 * Numpy
 * Pytorch 1.0
 * OpenCV
-* xlwt and xlrd (optimal)
+* xlwt and xlrd (optional)
 # Usage
 Directly run the code with default arguments:<br>
 '''<br>
