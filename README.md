@@ -37,7 +37,7 @@ python3 main.py <br>
 There are three demos:
 ## [different exits width](https://www.youtube.com/watch?v=ec0hX0ac1QE)
 ## [different pedestrian distribution](https://www.youtube.com/watch?v=jmscouZGJqo)
-## [different open frame](https://www.youtube.com/watch?v=bn1jeTuQdCY)
+## [different open times](https://www.youtube.com/watch?v=bn1jeTuQdCY)
 # Acknowledgements
 - [@Kaixhin](https://github.com/Kaixhin) for [Rainbow DQN](https://github.com/Kaixhin/Rainbow) 
 - [@jimfleming](https://github.com/jimfleming) for [RVO2-Python](https://github.com/jimfleming/rvo2)
