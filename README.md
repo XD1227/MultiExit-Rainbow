@@ -2,7 +2,7 @@ MultiExit-Rainbow DQN
 ======
 This is a multi-exit evacuation simulation based on Rainbow DQN, where RVO2 library is used to avoid collision, and Rainbow DQN is applied to guide the pedestrians to evacuate from the indoor room with a more reasonable behavior compared with other mathematical models.
 # Keywords
-Multi-Exit Evacuation Simulation; Rainbow DQN application
+Deep reinforcement learning; Multi-Exit Evacuation Simulation; Rainbow DQN application
 # Setup
 ## Environment
 * Ubuntu 18.04
@@ -14,12 +14,12 @@ Multi-Exit Evacuation Simulation; Rainbow DQN application
 * OpenCV
 * xlwt and xlrd (optional)
 # Usage
-Directly run the code with default arguments:<br>
+The code can be run Directly with default arguments:<br>
 '''<br>
 python3 main.py
 '''<br>
 <br>
-Or you can be run using the following options:<br>
+Or you can run the code using the following options:<br>
 '''<br>
 python3 main.py <br>
 --noisy True<br>
@@ -33,7 +33,7 @@ python3 main.py <br>
 --evaluate False<br>
 '''<br>
 # Demos
-There are three demos:
+Three video demos are presented:
 ## [different exits width](https://www.youtube.com/watch?v=ec0hX0ac1QE)
 ## [different pedestrian distribution](https://www.youtube.com/watch?v=jmscouZGJqo)
 ## [different open times](https://www.youtube.com/watch?v=bn1jeTuQdCY)
