@@ -34,9 +34,9 @@ python3 main.py <br>
 '''<br>
 # Demos
 Three video demos are presented:
-## [different exits width](https://www.youtube.com/watch?v=ec0hX0ac1QE)
-## [different pedestrian distribution](https://www.youtube.com/watch?v=jmscouZGJqo)
-## [different open times](https://www.youtube.com/watch?v=bn1jeTuQdCY)
+## [uneven exit width](https://www.youtube.com/watch?v=ec0hX0ac1QE)
+## [uneven pedestrian distribution](https://www.youtube.com/watch?v=jmscouZGJqo)
+## [dynamic environemnt with sudden door opening](https://www.youtube.com/watch?v=bn1jeTuQdCY)
 # Acknowledgements
 - [@Kaixhin](https://github.com/Kaixhin) for [Rainbow DQN](https://github.com/Kaixhin/Rainbow) 
 - [@jimfleming](https://github.com/jimfleming) for [RVO2-Python](https://github.com/jimfleming/rvo2)
