@@ -37,7 +37,7 @@ python3 main.py <br>
 There are three demos:
 ## [different exits width](https://drive.google.com/file/d/19qD0Xqt4rGRUIpeRzEh-MkMhbcEEH-g-/view?usp=sharing)
 ## [different pedestrian distribution](https://drive.google.com/file/d/1ojG_ggo8m_IkD162QtpIB_djv79yt8IT/view?usp=sharing)
-## [different open frame](https://drive.google.com/file/d/1ojG_ggo8m_IkD162QtpIB_djv79yt8IT/view?usp=sharing)
+## [different open frame](https://drive.google.com/file/d/1fZHfyebkOTYCXX_dMIj42ju7cPqrj3vu/view?usp=sharing)
 # Acknowledgements
 - [@Kaixhin](https://github.com/Kaixhin) for [Rainbow DQN](https://github.com/Kaixhin/Rainbow) 
 - [@jimfleming](https://github.com/jimfleming) for [RVO2-Python](https://github.com/jimfleming/rvo2)
