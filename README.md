@@ -1,7 +1,6 @@
 MultiExit-Rainbow DQN
 ======
 This is a multi-exit evacuation simulation based on Rainbow DQN, where RVO2 library is used to avoid collision, and Rainbow DQN is applied to guide the pedestrians to evacuate from the indoor room with a more reasonable behavior compared with other mathematical models.
-
 # Keywords
 Multi-Exit Evacuation Simulation; Rainbow DQN application
 # Setup
